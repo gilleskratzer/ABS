@@ -7,18 +7,12 @@ A trial will be conducted to study the reaction time in young swiss male subject
 
 ### 1. Estimate the require sample size for a parametric approach
 
-power.t.test(delta = 30,sd = 30,sig.level = .05,power = .8,type = "two.sample",alternative = "two.sided")
-
 ### 2. Estimate the new required sample size if SD is reduced by 20%
-
-power.t.test(delta = 30,sd = 24,sig.level = .05,power = .8,type = "two.sample",alternative = "two.sided")
 
 ### 3. Estimate the new sample size is the SD is 30 [ms] but the expected change is an increase of 36 [ms]
 
-power.t.test(delta = 36,sd = 30,sig.level = .05,power = .8,type = "two.sample",alternative = "two.sided")
-
 ### 4. Estimate the new sample size if you decide to use a paire designed
 
-power.t.test(delta = 30,sd = 30,sig.level = .05,power = .8,type = "paired",alternative = "two.sided")
-
 ### 5. Estimate the power achieved with 10 subject per group in an unpair design
+
+Solution can be found [here](sol.Rmd)
