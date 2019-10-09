@@ -31,4 +31,5 @@ power.t.test(delta = 30,sd = 30,sig.level = .05,power = .8,type = "paired",alter
 ### 5. Estimate the power achieved with 10 subject per group in an unpair design
 
 ```{r}
+power.t.test(n = 12,delta = 30,sd = 30,sig.level = .05,type = "two.sample",alternative = "two.sided")
 ```
