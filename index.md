@@ -13,6 +13,6 @@ A trial will be conducted to study the reaction time in young swiss male subject
 
 ### 4. Estimate the new sample size if you decide to use a paire designed
 
-### 5. Estimate the power achieved with 10 subject per group in an unpair design
+### 5. Estimate the power achieved with 10 subject per group in an unpaired design
 
 Solution to exercice can be found [here](sol.html)
