@@ -15,4 +15,4 @@ A trial will be conducted to study the reaction time in young swiss male subject
 
 ### 5. Estimate the power achieved with 10 subject per group in an unpaired design
 
-Solution to exercice can be found [here](sol.html)
+The solutions to the exercices can be found [here](sol.html)
