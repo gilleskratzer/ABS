@@ -9,6 +9,11 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+### Warm up question: Why doing a sample size prior to your study?
+
+1. A sample size calculation estimates not only how many participants/subjects/animals you need, but how many you do not need. 
+2. Sometime required by granting agency or ethic committee.
+3. The biggest benefit of doing these calculations is to not waste years and thousands of dollars in grants or tuition pursuing an impossible analysis. 
 
 ### 1. Estimate the require sample size for a parametric approach
 
